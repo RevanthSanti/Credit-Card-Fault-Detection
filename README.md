@@ -12,3 +12,15 @@ V1-V28 : Anonymized features representing various transaction attributes (e.g., 
 Amount : The transaction amount
 
 Class : Binary label indicating whether the transaction is fraudulent (1) or not (0)
+
+Libraries used for the project:
+
+numpy
+pandas
+xgboost
+scikit-learn
+matplotlib
+seaborn
+pycaret
+
+Since dataset is huge I recommend to run the model in google colab to reproduce the results
